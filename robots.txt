@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alguarito.github.io/Portafolio/sitemap.xml
+Sitemap: https://alvarocardenasorozco.com/sitemap.xml
 Sitemap: https://alguarito.github.io/plataformaconectate/sitemap.xml
